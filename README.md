@@ -2,7 +2,7 @@
 Implementation of the InsertionSort Algorithm in JavaScript 
 
 ## Description
-insertionSort is used to sort unsorted arrays. It is not the most efficient algorithm, having a worst-case time-complexity of O(n<sup>2</sup>) in terms of swaps & comparisons, making it a "simple quadratic" algorithm. 
+insertionSort is used to sort unsorted arrays. Due to its nested-for loop structure, insertionSort is not the most efficient algorithm, having a worst-case time-complexity of <i>O(n<sup>2</sup>)</i> in terms of swaps & comparisons. It is considered among the "simple quadratic" sorting algorithms. 
 
 The algorithm is as follows. 
 1. Loops up the array 
